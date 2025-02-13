@@ -14,9 +14,8 @@ A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 
 🧠 Winner detection with draw handling
 
-📸 Screenshots
-
-(Add screenshots of your game here)
+Play Now:-
+https://tic-tac-toe-eight-khaki-20.vercel.app/
 
 🛠️ Technologies Used
 
@@ -36,13 +35,9 @@ If all squares are filled without a winner, the game is a draw.
 
 Click "Play Again" to restart the game.
 
-📦 Installation & Setup
 
-Clone the repository:
 
-git clone https://github.com/yourusername/tic-tac-toe.git
 
-Open index.html in your browser.
 
 🔧 Future Improvements
 
